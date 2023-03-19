@@ -30,7 +30,7 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ᴍᴀɪɴ ʏᴀʜɪ ʜᴜ ʙᴀʙʏ ᴍᴜᴜᴜᴜᴀᴀᴀᴀᴀᴀʜʜ 😘")
     await event.reply(
-       "ʜᴏɪ ᴘᴏɪ ,\n   ᴍᴀɪɴ ᴀᴀᴘᴋɪ ᴄᴜᴛᴇ sɪ ғʀɴᴅ ʜᴜ ᴀᴀᴘᴋᴇ ɢᴜʟᴜᴘ ᴍᴇ ᴍᴇᴍʙᴇʀs ᴛᴀɢ ᴋᴀʟɴᴇ ᴍᴇ ʜᴇʟᴘ ᴋᴀʟᴜɴGI ᴀᴀᴜʀ ᴄʜᴀɴɴᴇʟ ᴍᴇ ʙʜɪ.\n\n┏━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┓\n┣ ⍟ [ᴛᴇᴀᴍsᴜᴋᴜɴ](https://t.me/TeamSukun)\n┣ ⍟ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/sukunmusicrobot)\n┣ ⍟ [ᴀɪᴄʜᴀᴛʙᴏᴛ ʀᴇᴘᴏ](https://github.com/TeamSukun/shayachatbot)\n┗━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┛\n\n ━━━━━━━ sᴜᴋᴜɴ ━━━━━━━\nᴄᴏᴍᴍᴀɴᴅs ᴋᴇ ʟɪʏᴇ ɴᴀ `/help` ᴋᴀʟɴᴀ.\nᴀᴘɴᴀ ʙᴏᴛ ʙᴀɴᴀ ᴄʜᴀᴋᴛᴇ ʜᴏ sᴏᴜʀᴄᴇ ᴅɪʏᴀ ʜ ɴᴀ.\n━━━━━━━ sᴜᴋᴜɴ ━━━━━━━",
+       "ʜᴏɪ ᴘᴏɪ ,\n   ᴍᴀɪɴ ᴀᴀᴘᴋɪ ᴄᴜᴛᴇ sɪ ғʀɴᴅ ʜᴜ ᴀᴀᴘᴋᴇ ɢᴜʟᴜᴘ ᴍᴇ ᴍᴇᴍʙᴇʀs ᴛᴀɢ ᴋᴀʟɴᴇ ᴍᴇ ʜᴇʟᴘ ᴋᴀʟᴜɴGI ᴀᴀᴜʀ ᴄʜᴀɴɴᴇʟ ᴍᴇ ʙʜɪ.\n\n┏━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┓\n┣ ⍟ [ᴛᴇᴀᴍsᴜᴋᴜɴ](https://t.me/TeamSukun)\n┣ ⍟ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/sukunmusicrobot)\n┣ ⍟ [ᴀɪᴄʜᴀᴛʙᴏᴛ ʀᴇᴘᴏ](https://github.com/TeamSukun/shayachatbot)\n┗━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┛\n\n ━━━━━━━ sᴜᴋᴜɴ ━━━━━━━\n ⍟ ᴄᴏᴍᴍᴀɴᴅs ᴋᴇ ʟɪʏᴇ ɴᴀ `/help` ᴋᴀʟɴᴀ.\n⍟ ᴀᴘɴᴀ ʙᴏᴛ ʙᴀɴᴀ ᴄʜᴀᴋᴛᴇ ʜᴏ sᴏᴜʀᴄᴇ ᴅɪʏᴀ ʜ ɴᴀ.\n━━━━━━━ sᴜᴋᴜɴ ━━━━━━━",
         link_preview=False,
         buttons=(
             [
