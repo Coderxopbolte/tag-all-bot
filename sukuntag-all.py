@@ -1,4 +1,4 @@
-# Fully edited by @TeamSukun
+# Fully edited by @NISHU_OP_OFFICIAL
 
 import os, logging, asyncio
 from telethon import Button
@@ -30,7 +30,8 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ᴍᴀɪɴ ʏᴀʜɪ ʜᴜ ʙᴀʙʏ ᴍᴜᴜᴜᴜᴀᴀᴀᴀᴀᴀʜʜ 😘")
     await event.reply(
-       "ʜᴏɪ ᴘᴏɪ ,\n   ᴍᴀɪɴ ᴀᴀᴘᴋɪ ᴄᴜᴛᴇ sɪ ғʀɴᴅ ʜᴜ ᴀᴀᴘᴋᴇ ɢᴜʟᴜᴘ ᴍᴇ ᴍᴇᴍʙᴇʀs ᴛᴀɢ ᴋᴀʟɴᴇ ᴍᴇ ʜᴇʟᴘ ᴋᴀʟᴜɴGI ᴀᴀᴜʀ ᴄʜᴀɴɴᴇʟ ᴍᴇ ʙʜɪ.\n\n┏━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┓\n┣ ⍟ [ᴛᴇᴀᴍsᴜᴋᴜɴ](https://t.me/TeamSukun)\n┣ ⍟ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/sukunmusicrobot)\n┣ ⍟ [ᴀɪᴄʜᴀᴛʙᴏᴛ ʀᴇᴘᴏ](https://github.com/TeamSukun/shayachatbot)\n┗━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┛\n\n ━━━━━━━ sᴜᴋᴜɴ ━━━━━━━\n ⍟ ᴄᴏᴍᴍᴀɴᴅs ᴋᴇ ʟɪʏᴇ ɴᴀ `/help` ᴋᴀʟɴᴀ.\n⍟ ᴀᴘɴᴀ ʙᴏᴛ ʙᴀɴᴀ ᴄʜᴀᴋᴛᴇ ʜᴏ sᴏᴜʀᴄᴇ ᴅɪʏᴀ ʜ ɴᴀ.\n━━━━━━━ sᴜᴋᴜɴ ━━━━━━━",
+       "ʜᴏɪ ᴘᴏɪ ,\n   ᴍᴀɪɴ ᴀᴀᴘᴋɪ ᴄᴜᴛᴇ sɪ ғʀɴᴅ ʜᴜ ᴀᴀᴘᴋᴇ ɢᴜʟᴜᴘ ᴍᴇ ᴍᴇᴍʙᴇʀs ᴛᴀɢ ᴋᴀʟɴᴇ ᴍᴇ ʜᴇʟᴘ ᴋᴀʟᴜɴGI ᴀᴀᴜʀ ᴄʜᴀɴɴᴇʟ ᴍᴇ ʙʜɪ.\n\n┏━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┓\n┣ ⍟ @NISHU_OP_OFFICIAL (https://t.me/@vick_support)\n┣ ⍟ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/@VickMachineopBot)\n┣
+━━━━",
         link_preview=False,
         buttons=(
             [
