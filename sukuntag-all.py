@@ -40,15 +40,17 @@ async def start(event):
                 ),
             ],
             [
-                Button.url("🌻 ᴏᴡɴᴇʀ 🌻", "https://t.me/Bhumi_ha_r"),
-                Button.url("🥀 ᴍᴀɴᴀɢᴇʀ 🥀", "https://t.me/cute_billa_hu"),
+                Button.url("🌻 ᴏᴡɴᴇʀ 🌻", "https://t.me/NISHU_OP_OFFICIAL"),
+                Button.url("🥀 ᴍᴀɴᴀɢᴇʀ 🥀", "https://t.me/NISHU_OP_OFFICIAL"),
             ],
             [
-                Button.url("✌️ ᴜᴘᴅᴀᴛᴇ ✌️", "https://t.me/sukunupdates"),
-                Button.url("🤫 sᴜᴘᴘᴏʀᴛ 🤫", "https://t.me/sukunsupports"),
+                Button.url("✌️ ᴜᴘᴅᴀᴛᴇ ✌️", "https://t.me/VICK_NETWORK "),
+                Button.url("🤫 sᴜᴘᴘᴏʀᴛ 🤫", "https://t.me/VICK_SUPPORT"),
             ],
             [
-                Button.url("✌️ ʀᴇᴘᴏ @TeamSukun ✌️", "https://github.com/TeamSukun/tag-all-bot"),
+                
+
+
             ],
         ),
     )
@@ -67,12 +69,12 @@ async def help(event):
             [
                 Button.url(
                     "⍟ ᴍᴀɴᴀɢᴇʀ ⍟",
-                    "https://t.me/cute_billa_hu",
+                    "https://t.me/NISHU_OP_OFFICIAL",
                 ),
             ],
             [
-                Button.url("⍟ ᴜᴘᴅᴀᴛᴇs", "https://t.me/sukunupdates"),
-                Button.url("sᴜᴘᴘᴏʀᴛs ⍟", "https://t.me/sukunsupports"),
+                Button.url("⍟ ᴜᴘᴅᴀᴛᴇs", "https://t.me/VICK_NETWORK"),
+                Button.url("sᴜᴘᴘᴏʀᴛs ⍟", "https://t.me/VICK_SUPPORT"),
             ]
         ),
     )
@@ -91,12 +93,12 @@ async def help(event):
             [
                 Button.url(
                     "⍟ ᴍᴀɴᴀɢᴇʀ ⍟",
-                    "https://t.me/cute_billa_hu",
+                    "https://t.me/NISHU_OP_OFFICIAL",
                 ),
             ],
             [
-                Button.url("⍟ ᴜᴘᴅᴀᴛᴇs", "https://t.me/sukunupdates"),
-                Button.url("sᴜᴘᴘᴏʀᴛs ⍟", "https://t.me/sukunsupports"),
+                Button.url("⍟ ᴜᴘᴅᴀᴛᴇs", "https://t.me/VICK_NETWORK"),
+                Button.url("sᴜᴘᴘᴏʀᴛs ⍟", "https://t.me/VICK_SUPPORT"),
             ]
         ),
     )
