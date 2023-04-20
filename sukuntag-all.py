@@ -1,4 +1,4 @@
-# Fully edited by @NISHU_OP_OFFICIAL
+I# Fully edited by @NISHU_OP_OFFICIAL
 
 import os, logging, asyncio
 from telethon import Button
@@ -238,7 +238,7 @@ async def cancel_spam(event):
         return await event.respond("sᴛᴏᴘᴘᴇᴅ by @TeamSukun")
 
 
-print("∆ SUKUN TAG-ALL STARTED ∆")
+print("∆ VICK TAG-ALL STARTED ∆")
 client.run_until_disconnected()
 
 
