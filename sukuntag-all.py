@@ -35,9 +35,7 @@ async def start(event):
         link_preview=False,
         buttons=(
             [
-                Button.url(
-                    "🫣 ᴀᴅᴅ ᴋᴀʀʟᴏ ɴᴀ ᴘʟᴢᴢ 🫣",
-                    "https://t.me/sukunusertagbot?startgroup=true",
+                Button.url("🫣 ᴀᴅᴅ ᴋᴀʀʟᴏ ɴᴀ ᴘʟᴢᴢ 🫣", "https://t.me/sukunusertagbot?startgroup=true",
                 ),
             ],
             [
@@ -68,9 +66,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url(
-                    "⍟ ᴍᴀɴᴀɢᴇʀ ⍟",
-                    "https://t.me/NISHU_OP_OFFICIAL",
+                Button.url("⍟ ᴍᴀɴᴀɢᴇʀ ⍟", "https://t.me/NISHU_OP_OFFICIAL",
                 ),
             ],
             [
@@ -92,9 +88,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url(
-                    "⍟ ᴍᴀɴᴀɢᴇʀ ⍟",
-                    "https://t.me/NISHU_OP_OFFICIAL",
+                Button.url("⍟ ᴍᴀɴᴀɢᴇʀ ⍟", "https://t.me/NISHU_OP_OFFICIAL",
                 ),
             ],
             [
